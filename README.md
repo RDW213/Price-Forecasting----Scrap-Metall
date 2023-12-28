@@ -36,4 +36,6 @@ Mean 1-year monthly RMSE: 88.58
 Mean 1-year monthly Accuracy: 53%
 
 
-## Disclaimer: The models are based on historical data, and results may vary due to market dynamics. Regular updates and model retraining are recommended for sustained accuracy.
+## Disclaimer: 
+
+The models are based on historical data, and results may vary due to market dynamics. Regular updates and model retraining are recommended for sustained accuracy.
