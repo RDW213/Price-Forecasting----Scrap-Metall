@@ -1,5 +1,0 @@
-Not all sources support API for developers' fast retrieval.
-The program in this folder aims to transform the downloaded data into unified format (time series + reference). 
-
-Instruction:
-    Put the downloaded csv from one source in /ETL/file_etl and run the program for that source, then the reformed data will be generated in /ETL path.
